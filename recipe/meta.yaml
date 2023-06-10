@@ -1,5 +1,5 @@
 {% set name = "fast_float" %}
-{% set version = "5.1.0" %}
+{% set version = "5.2.0" %}
 
 package:
   name: {{ name }}
@@ -8,7 +8,7 @@ package:
 source:
   fn: {{ name }}-{{ version }}.tar.gz
   url: https://github.com/fastfloat/fast_float/archive/v{{ version }}.tar.gz
-  sha256: 37a0de5473ed6b9617ea4c199c2d5bda45ab027dbe72220fe36cf3000f9f23bf
+  sha256: 72bbfd1914e414c920e39abdc81378adf910a622b62c45b4c61d344039425d18
 
 build:
   number: 0
