@@ -8,5 +8,4 @@ build_platform:
   linux_aarch64: linux_64
 provider:
   linux_aarch64: default
-test_on_native_only: true
-
+test: native_and_emulated
