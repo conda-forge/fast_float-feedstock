@@ -11,12 +11,13 @@ source:
   sha256: 10159a4a58ba95fe9389c3c97fe7de9a543622aa0dcc12dd9356d755e9a94cb4
 
 build:
-  number: 0
+  number: 1
 
 requirements:
   build:
     - cmake
     - {{ compiler('cxx') }}
+    - {{ stdlib('c') }}
     - ninja
 
 test:
