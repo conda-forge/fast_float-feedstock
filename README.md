@@ -81,7 +81,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-fast_float-green.svg)](https://anaconda.org/conda-forge/fast_float) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/fast_float.svg)](https://anaconda.org/conda-forge/fast_float) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/fast_float.svg)](https://anaconda.org/conda-forge/fast_float) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/fast_float.svg)](https://anaconda.org/conda-forge/fast_float) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-fast__float-green.svg)](https://anaconda.org/conda-forge/fast_float) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/fast_float.svg)](https://anaconda.org/conda-forge/fast_float) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/fast_float.svg)](https://anaconda.org/conda-forge/fast_float) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/fast_float.svg)](https://anaconda.org/conda-forge/fast_float) |
 
 Installing fast_float
 =====================
